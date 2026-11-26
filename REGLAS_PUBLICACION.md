@@ -3,8 +3,8 @@
 Estas reglas las aplica cada reel, manual o automático.
 
 ## Público
-- Mercado principal: **Argentina** (allí está la central y el 100 % del servicio hoy).
-- Expansión: **España**.
+- Objetivo principal de comunicación: **España** (es donde queremos crecer). Locución con acento de España.
+- También **Argentina**, donde está la central y hoy se da el servicio.
 - Objetivo: consultas de productoras, canales, realizadores y eventos. No buscamos alcance masivo, buscamos al público correcto.
 
 ## Texto de la publicación
